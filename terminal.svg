@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="430" viewBox="0 0 840 430" fill="none" role="img" aria-label="KillaNova terminal">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#bc8cff"/>
+      <stop offset="100%" stop-color="#f778ba"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <style>
+    @keyframes fadein { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes blink  { 50% { opacity: 0; } }
+    @keyframes flow   { to { stroke-dashoffset: -1000; } }
+    text { font-family: 'JetBrains Mono','Fira Code','SF Mono','Cascadia Code',Consolas,monospace; font-size: 19px; }
+    .row    { opacity: 0; animation: fadein .55s ease forwards; }
+    .d1{animation-delay:.4s}.d2{animation-delay:1.0s}.d3{animation-delay:1.7s}
+    .d4{animation-delay:2.3s}.d5{animation-delay:3.0s}.d6{animation-delay:3.6s}
+    .d7{animation-delay:5.2s}.d8{animation-delay:5.8s}
+    .prompt{fill:#3fb950;font-weight:bold}.path{fill:#58a6ff}.cmd{fill:#e6edf3}
+    .out{fill:#8b949e}.accent{fill:#f778ba;font-weight:bold}.ok{fill:#3fb950;font-weight:bold}
+    .cursor{fill:#3fb950;animation:blink 1s steps(1) infinite}
+    .title{fill:#8b949e;font-size:14px}
+  </style>
+  <rect x="12" y="12" width="816" height="406" rx="14" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="12" y="12" width="816" height="3" rx="1.5" fill="url(#accent)"/>
+  <line x1="12" y1="12" x2="828" y2="12" stroke="url(#accent)" stroke-width="3" stroke-dasharray="120 880" style="animation:flow 6s linear infinite"/>
+  <circle cx="42" cy="44" r="7" fill="#ff5f56"/>
+  <circle cx="66" cy="44" r="7" fill="#ffbd2e"/>
+  <circle cx="90" cy="44" r="7" fill="#27c93f"/>
+  <text x="420" y="49" text-anchor="middle" class="title">killanova@travion: ~/profile</text>
+  <line x1="12" y1="72" x2="828" y2="72" stroke="#30363d" stroke-width="1"/>
+  <g class="row d1"><text x="44" y="118"><tspan class="prompt">$ </tspan><tspan class="cmd">whoami</tspan></text></g>
+  <g class="row d2"><text x="44" y="156"><tspan class="accent">Eren</tspan><tspan class="out"> — Junior Developer @ Travion</tspan></text></g>
+  <g class="row d3"><text x="44" y="200"><tspan class="prompt">$ </tspan><tspan class="cmd">cat stack.txt</tspan></text></g>
+  <g class="row d4"><text x="44" y="238"><tspan class="out">Python · SQL · Bash · APIs · Automation</tspan></text></g>
+  <g class="row d5"><text x="44" y="282"><tspan class="prompt">$ </tspan><tspan class="cmd">./build_future.sh</tspan></text></g>
+  <g class="row d6">
+    <rect x="44" y="300" width="360" height="14" rx="7" fill="#21262d"/>
+    <rect x="44" y="300" width="0" height="14" rx="7" fill="url(#accent)">
+      <animate attributeName="width" from="0" to="360" dur="1.5s" begin="3.6s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+    </rect>
+    <text x="420" y="312" class="out" font-size="15">100%</text>
+  </g>
+  <g class="row d7"><text x="44" y="356"><tspan class="ok">✓ </tspan><tspan class="cmd">Always learning. Always shipping. </tspan><tspan class="accent">🚀</tspan></text></g>
+  <g class="row d8"><text x="44" y="394"><tspan class="prompt">$ </tspan><tspan class="cursor">▋</tspan></text></g>
+</svg>
