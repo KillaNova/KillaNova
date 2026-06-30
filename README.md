@@ -151,8 +151,8 @@ class KillaNova:
 
 <div align="center">
   <a href="https://github.com/KillaNova/python-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillaNova&repo=python-projects&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+   <img src="https://github-readme-stats-demirhane.vercel.app/api/pin/?username=KillaNova&repo=python-projects&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>  
 </div>
 
 ---
