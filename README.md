@@ -101,19 +101,13 @@ class KillaNova:
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KillaNova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillaNova&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-demirhane.vercel.app/api?username=KillaNova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-demirhane.vercel.app/api/top-langs/?username=KillaNova&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=KillaNova&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=KillaNova&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🏆 Trophies
