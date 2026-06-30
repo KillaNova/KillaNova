@@ -23,9 +23,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/JOUW-LINKEDIN-HIER"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:JOUW-EMAIL-HIER"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.com/users/JOUW-DISCORD-ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/eren-yilmaz-04b7463a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:erenhamza.yilmaz@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/lowkey4578"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 ---
@@ -99,10 +99,16 @@ class KillaNova:
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KillaNova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillaNova&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=KillaNova&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=KillaNova&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
