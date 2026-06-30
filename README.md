@@ -108,6 +108,7 @@ class KillaNova:
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=KillaNova&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
+
 ---
 
 ## 🏆 Trophies
