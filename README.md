@@ -101,8 +101,8 @@ class KillaNova:
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-demirhane.vercel.app/api?username=KillaNova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-demirhane.vercel.app/api/top-langs/?username=KillaNova&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-demirhane.vercel.app/api?username=KillaNova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&v=2"/>
+  <img height="180em" src="https://github-readme-stats-demirhane.vercel.app/api/top-langs/?username=KillaNova&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2"/>
 </div>
 
 <div align="center">
@@ -151,7 +151,7 @@ class KillaNova:
 
 <div align="center">
   <a href="https://github.com/KillaNova/python-projects">
-   <img src="https://github-readme-stats-demirhane.vercel.app/api/pin/?username=KillaNova&repo=python-projects&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+   <img src="https://github-readme-stats-demirhane.vercel.app/api/pin/?username=KillaNova&repo=python-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" />
   </a>  
 </div>
 
