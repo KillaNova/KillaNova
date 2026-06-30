@@ -52,7 +52,7 @@ class Eren:
 > Rendered by [my own Python script](https://github.com/KillaNova/python-projects/blob/main/profile/generate_readme.py) and refreshed every 6h via GitHub Actions. This profile literally runs on my own code.
 
 <!--START_SECTION:btc-->
-💰 **BTC / EUR** &nbsp;`€51,369` &nbsp;·&nbsp; _updated 30 Jun 2026, 20:46 CET_
+💰 **BTC / EUR** &nbsp;`€51,274` &nbsp;·&nbsp; _updated 30 Jun 2026, 20:13 CET_
 <!--END_SECTION:btc-->
 
 <!--START_SECTION:coding-->
@@ -111,10 +111,14 @@ class Eren:
 
 ### `eren@nova:~$` uptime — by the numbers
 
+<!-- HOST NOTE: cards + pins use my OWN self-hosted github-readme-stats instance.
+     If they ever render blank, it's almost always Vercel turning Deployment
+     Protection back on: Vercel project -> Settings -> Deployment Protection ->
+     set "Vercel Authentication" to "Only Preview Deployments" (or disable). -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-demirhane.vercel.app/api?username=KillaNova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&v=2"/>
-<img height="180em" src="https://github-readme-stats-demirhane.vercel.app/api/top-langs/?username=KillaNova&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2"/>
+<img height="180em" src="https://github-readme-stats-pya1.vercel.app/api?username=KillaNova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&v=2"/>
+<img height="180em" src="https://github-readme-stats-pya1.vercel.app/api/top-langs/?username=KillaNova&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2"/>
 
 <img src="https://streak-stats.demolab.com/?user=KillaNova&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
@@ -149,10 +153,10 @@ class Eren:
 <div align="center">
 
 <a href="https://github.com/KillaNova/python-projects">
-  <img src="https://github-readme-stats-demirhane.vercel.app/api/pin/?username=KillaNova&repo=python-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" />
+  <img src="https://github-readme-stats-pya1.vercel.app/api/pin/?username=KillaNova&repo=python-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" />
 </a>
 <a href="https://github.com/KillaNova/KillaNova">
-  <img src="https://github-readme-stats-demirhane.vercel.app/api/pin/?username=KillaNova&repo=KillaNova&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" />
+  <img src="https://github-readme-stats-pya1.vercel.app/api/pin/?username=KillaNova&repo=KillaNova&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" />
 </a>
 
 </div>
@@ -181,7 +185,7 @@ class Eren:
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KillaNova&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy-umber-two.vercel.app/?username=KillaNova&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 </details>
