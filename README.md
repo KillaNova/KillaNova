@@ -52,15 +52,15 @@ class Eren:
 > Rendered by [my own Python script](https://github.com/KillaNova/python-projects/blob/main/profile/generate_readme.py) and refreshed every 6h via GitHub Actions. This profile literally runs on my own code.
 
 <!--START_SECTION:btc-->
-💰 **BTC / EUR** &nbsp;`€56,303` &nbsp;·&nbsp; _updated 11 Jul 2026, 19:52 CET_
+💰 **BTC / EUR** &nbsp;`€56,116` &nbsp;·&nbsp; _updated 12 Jul 2026, 03:07 CET_
 <!--END_SECTION:btc-->
 
 <!--START_SECTION:coding-->
-⏳ **1,553 days** of building on GitHub and counting
+⏳ **1,554 days** of building on GitHub and counting
 <!--END_SECTION:coding-->
 
 <!--START_SECTION:tip-->
-💡 **Tip of the day** — Write code for the human who reads it next — that human is usually you.
+💡 **Tip of the day** — A function that does one thing is easier to test, name, and trust.
 <!--END_SECTION:tip-->
 
 ---
