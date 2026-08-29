@@ -33,12 +33,12 @@
   <circle cx="42" cy="44" r="7" fill="#ff5f56"/>
   <circle cx="66" cy="44" r="7" fill="#ffbd2e"/>
   <circle cx="90" cy="44" r="7" fill="#27c93f"/>
-  <text x="420" y="49" text-anchor="middle" class="title">killanova@travion: ~/profile</text>
+  <text x="420" y="49" text-anchor="middle" class="title">killanova@tarkal: ~/profile</text>
   <line x1="12" y1="72" x2="828" y2="72" stroke="#30363d" stroke-width="1"/>
   <g class="row d1"><text x="44" y="118"><tspan class="prompt">$ </tspan><tspan class="cmd">whoami</tspan></text></g>
-  <g class="row d2"><text x="44" y="156"><tspan class="accent">Eren</tspan><tspan class="out"> — Junior Developer @ Travion</tspan></text></g>
+  <g class="row d2"><text x="44" y="156"><tspan class="accent">Eren</tspan><tspan class="out"> — Freelance Developer @ Tarkal</tspan></text></g>
   <g class="row d3"><text x="44" y="200"><tspan class="prompt">$ </tspan><tspan class="cmd">cat stack.txt</tspan></text></g>
-  <g class="row d4"><text x="44" y="238"><tspan class="out">Python · SQL · Bash · APIs · Automation</tspan></text></g>
+  <g class="row d4"><text x="44" y="238"><tspan class="out">PxPlus · Python · SQL · Bash · Automation</tspan></text></g>
   <g class="row d5"><text x="44" y="282"><tspan class="prompt">$ </tspan><tspan class="cmd">./build_future.sh</tspan></text></g>
   <g class="row d6">
     <rect x="44" y="300" width="360" height="14" rx="7" fill="#21262d"/>
