@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=KillaNova&fontSize=82&fontColor=fff&animation=twinkling&fontAlignY=32&desc=backend%20%C2%B7%20automation%20%C2%B7%20the%20road%20to%20DevOps&descAlignY=54&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=KillaNova&fontSize=82&fontColor=fff&animation=twinkling&fontAlignY=32&desc=PxPlus%20%C2%B7%20Python%20%C2%B7%20automation&descAlignY=54&descSize=18" width="100%"/>
 
 <!-- HERO: hand-crafted animated terminal — built by hand, not a badge service -->
 <img src="https://raw.githubusercontent.com/KillaNova/KillaNova/main/terminal.svg" alt="KillaNova terminal" width="78%"/>
 
 <!-- rotating tagline -->
 <a href="https://killanova.github.io">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Backend+developer+%40+Travion;Automating+the+boring+parts;On+the+road+to+DevOps;Script+it+once%2C+never+repeat+it" alt="typing tagline"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Freelance+developer+%40+Tarkal;PxPlus+%2F+ProvideX+specialist;Python+%C2%B7+FastAPI+%C2%B7+automation;Script+it+once%2C+never+repeat+it" alt="typing tagline"/>
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/Junior%20Developer-58A6FF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/@%20Travion-bc8cff?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Freelance%20Developer-58A6FF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tarkal-bc8cff?style=for-the-badge&logo=briefcase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nijmegen%20🇳🇱-f778ba?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=KillaNova&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 <a href="https://www.linkedin.com/in/eren-yilmaz-04b7463a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:erenhamza.yilmaz@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+<a href="mailto:erenhamza.yilmaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://discord.com/users/lowkey4578"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://killanova.github.io"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=58A6FF"/></a>
 
@@ -31,25 +31,25 @@
 ```python
 class Eren:
     handle   = "KillaNova"
-    role     = "Junior Developer @ Travion"
+    role     = "Freelance developer · Tarkal"
     based_in = "Nijmegen, Netherlands 🇳🇱"
-    focus    = "backend · automation · the road to DevOps"
+    focus    = "PxPlus · backend · automation"
 
-    daily_driver = ["Python", "SQL", "Bash"]
+    daily_driver = ["PxPlus", "Python", "SQL", "Bash"]
     leveling_up  = ["FastAPI", "Docker", "PostgreSQL", "Linux"]
 
     def philosophy(self):
         return "Ship real things. Keep functions small. Automate the boring parts."
 ```
 
-> Started close to the security side of the house, now I build the backends and the pipelines that keep things running. I like problems that disappear once you write the right script.
+> Freelance developer, based in Nijmegen. My day job is **PxPlus / ProvideX** — a niche 4GL that runs ERP systems most people never see. Alongside it I build backends in Python. I like problems that disappear once you write the right script.
 
 ---
 
 ### `eren@nova:~$` systemctl status killanova.service
 
 > **● killanova.service** — self-updating profile &nbsp;`active (running)`
-> Rendered by [my own Python script](https://github.com/KillaNova/python-projects/blob/main/profile/generate_readme.py) and refreshed every 6h via GitHub Actions. This profile literally runs on my own code.
+> Rendered by [my own Python script](https://github.com/KillaNova/KillaNova/blob/main/generate_readme.py) and refreshed every 6h via GitHub Actions. This profile literally runs on my own code.
 
 <!--START_SECTION:btc-->
 💰 **BTC / EUR** &nbsp;`€67,025` &nbsp;·&nbsp; _updated 29 Aug 2026, 13:06 CET_
@@ -133,11 +133,11 @@ class Eren:
                     eren@killanova
        .--.         ──────────────────────────────
       |o_o |        OS .......... KillaNova OS (rolling release)
-      |:_/ |        Host ........ Travion · Nijmegen, NL
-     //   \ \       Role ........ Junior Developer
+      |:_/ |        Host ........ Tarkal · Nijmegen, NL
+     //   \ \       Role ........ Freelance developer
     (|     | )      Shell ....... bash / pwsh
    /'\_   _/`\      Editor ...... VS Code
-   \___)=(___/      Languages ... Python · SQL · Bash
+   \___)=(___/      Languages ... PxPlus · Python · SQL · Bash
                     Learning .... FastAPI · Docker · PostgreSQL · Linux
                     Mindset ..... build in public, automate everything
                     Uptime ...... 1,542 days and counting
@@ -152,11 +152,11 @@ class Eren:
 
 <div align="center">
 
-<a href="https://github.com/KillaNova/python-projects">
-  <img src="https://github-readme-stats-pya1.vercel.app/api/pin/?username=KillaNova&repo=python-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" />
+<a href="https://github.com/KillaNova/pxplus-film-reseller">
+  <img src="https://github-readme-stats-pya1.vercel.app/api/pin/?username=KillaNova&repo=pxplus-film-reseller&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" />
 </a>
-<a href="https://github.com/KillaNova/KillaNova">
-  <img src="https://github-readme-stats-pya1.vercel.app/api/pin/?username=KillaNova&repo=KillaNova&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" />
+<a href="https://github.com/KillaNova/fitcore-api">
+  <img src="https://github-readme-stats-pya1.vercel.app/api/pin/?username=KillaNova&repo=fitcore-api&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" />
 </a>
 
 </div>
