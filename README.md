@@ -52,7 +52,7 @@ class Eren:
 > Rendered by [my own Python script](https://github.com/KillaNova/KillaNova/blob/main/generate_readme.py) and refreshed every 6h via GitHub Actions. This profile literally runs on my own code.
 
 <!--START_SECTION:btc-->
-💰 **BTC / EUR** &nbsp;`€67,417` &nbsp;·&nbsp; _updated 14 Sep 2026, 12:28 CET_
+💰 **BTC / EUR** &nbsp;`€68,307` &nbsp;·&nbsp; _updated 14 Sep 2026, 18:24 CET_
 <!--END_SECTION:btc-->
 
 <!--START_SECTION:coding-->
