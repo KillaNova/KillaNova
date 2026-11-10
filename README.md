@@ -52,15 +52,15 @@ class Eren:
 > Rendered by [my own Python script](https://github.com/KillaNova/KillaNova/blob/main/generate_readme.py) and refreshed every 6h via GitHub Actions. This profile literally runs on my own code.
 
 <!--START_SECTION:btc-->
-💰 **BTC / EUR** &nbsp;`€66,872` &nbsp;·&nbsp; _updated 09 Nov 2026, 15:54 CET_
+💰 **BTC / EUR** &nbsp;`€66,994` &nbsp;·&nbsp; _updated 10 Nov 2026, 02:03 CET_
 <!--END_SECTION:btc-->
 
 <!--START_SECTION:coding-->
-⏳ **1,674 days** of building on GitHub and counting
+⏳ **1,675 days** of building on GitHub and counting
 <!--END_SECTION:coding-->
 
 <!--START_SECTION:tip-->
-💡 **Tip of the day** — A function that does one thing is easier to test, name, and trust.
+💡 **Tip of the day** — `try/except` is not error handling — catching the *right* error is.
 <!--END_SECTION:tip-->
 
 ---
