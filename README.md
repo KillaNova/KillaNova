@@ -52,15 +52,15 @@ class Eren:
 > Rendered by [my own Python script](https://github.com/KillaNova/KillaNova/blob/main/generate_readme.py) and refreshed every 6h via GitHub Actions. This profile literally runs on my own code.
 
 <!--START_SECTION:btc-->
-💰 **BTC / EUR** &nbsp;`€58,573` &nbsp;·&nbsp; _updated 16 Nov 2026, 15:29 CET_
+💰 **BTC / EUR** &nbsp;`€58,790` &nbsp;·&nbsp; _updated 17 Nov 2026, 02:25 CET_
 <!--END_SECTION:btc-->
 
 <!--START_SECTION:coding-->
-⏳ **1,681 days** of building on GitHub and counting
+⏳ **1,682 days** of building on GitHub and counting
 <!--END_SECTION:coding-->
 
 <!--START_SECTION:tip-->
-💡 **Tip of the day** — f-strings beat string concatenation every single time.
+💡 **Tip of the day** — The best debugger is a well-placed, well-named variable.
 <!--END_SECTION:tip-->
 
 ---
